@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008814159287",
+    "project_id": "login-app-b3df4",
+    "storage_bucket": "login-app-b3df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008814159287:android:89da2e0dd755d3e6742432",
+        "android_client_info": {
+          "package_name": "com.example.login_increment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAet0S0_hNtKlFSnlFPAMC4zY_Nz2wVuY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
